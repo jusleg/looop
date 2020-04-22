@@ -9,7 +9,7 @@ Gone are the days where you convert your entire project to Java just to get the 
 
 ## How to use Looop
 
-Looop was built with simplicity as its core value. For this reason, we only offer one method: `Loop.for` (`for` was already taken 😢).
+Looop was built with simplicity as its core value. For this reason, we only offer one method: `Looop.for`.
 
 Let's say you are [DJ Khaled](https://en.wikipedia.org/wiki/DJ_Khaled), a typical Java developer, and you wish to craft a tweet with your signature catchphrase "Another one." repeated **5** times
 
@@ -63,7 +63,7 @@ will print:
 
 > Is this leetcode ready?
 
-It depends, you might be able to solve the base case, but I'd be surprise if you didn't time out during the evaluation of the secret cases.
+It depends, you might be able to solve the base case, but I'd be surprised if you didn't time out during the evaluation of the secret cases.
 
 > Can I pass a technical interview with this?
 
