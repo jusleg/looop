@@ -30,7 +30,7 @@ puts tweet
 
 ## I'm intrigued, what are these ->{} things?
 
-I'm glad you asked, those are [Procs](https://ruby-doc.org/core-2.6/Proc.html) We'll call these procs while running the loop. This is one of the main reason that make looop a tad bit slower.
+I'm glad you asked, those are [Procs](https://ruby-doc.org/core-2.6/Proc.html). We'll call these procs while running the loop. This is one of the main reasons that make looop a tad bit slower.
 
 ## Do U even Big-O ?!1
 
